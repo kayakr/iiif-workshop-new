@@ -12,7 +12,7 @@ Here's a simple example of how an image can be included on a web page.
 <img src="babel.jpg">
 ```
 
-Or here's a full URL the the image.
+Or here's a full URL for the image.
 
 ```html
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Pieter_Bruegel_the_Elder_-_The_Tower_of_Babel_%28Rotterdam%29_-_Google_Art_Project.jpg/598px-Pieter_Bruegel_the_Elder_-_The_Tower_of_Babel_%28Rotterdam%29_-_Google_Art_Project.jpg">
